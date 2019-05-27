@@ -1,4 +1,4 @@
-GridDB connector for YCSB
+GridDB connector for YCSB 1
 
 ## Overview
 
